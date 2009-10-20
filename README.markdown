@@ -21,4 +21,4 @@ Usage:
         }
     }
 
-See http://unintelligible.org/blog/2009/10/20/named-reader-writer-lock-in-c/ for more information.
+See [the home page](http://unintelligible.org/blog/2009/10/20/named-reader-writer-lock-in-c/) for more information.
